@@ -1,14 +1,14 @@
 {
-    "token": "",
-    "owner": "",
-    "guild_id": "",
-    "capmonster_key": "",
-    "server_nick": ".gg/demonboost",
+    "token": "MTMzNzYzMDgwMDc0NDY4MTUyNA.Gnp38p.3VhdbfnmBJ7BsAhjZt2Q8uP17aK6uAegO7_g9Y",
+    "owner": "796001480406466601",
+    "guild_id": "1332583707663405086",
+    "capmonster_key": "473e2705e8bcaaf115a3e9b28ed8e768",
+    "server_nick": ".gg/jurassic",
     "change_server_nick": true,
     "proxyless": true,
     "field_name_invite": "Invite",
-    "order_logs": "",
-    "failed_boosts": "",
-    "boosts_logs": "",
+    "order_logs": "1332583783807062101",
+    "failed_boosts": "1332583783807062101",
+    "boosts_logs": "1332583783807062101",
     "activity": "Boosting Servers"
 }
